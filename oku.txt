@@ -1,0 +1,2 @@
+kendi yazdığım, 10k ntc sensör kullanarak 
+sıcaklık ölçümü yapılabilen avr kütüphanesi.
